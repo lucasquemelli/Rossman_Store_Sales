@@ -15,3 +15,5 @@
 **Strategy:** we used the CRISP-DS (Cross-Industry Process - Data Science) as the main project management methodology. The predictions were delivered through a Telegram Bot in order the CFO and stakeholders check the informations using their smartphones. 
 
 The dataset used in this project contains historical drugstore sales from 1115 Rossmann stores (Europe). Dataset description and all files may be checked and downloaded through [Kaggle - Rossmann Store Sales](https://www.kaggle.com/competitions/rossmann-store-sales/data).   
+
+All files from the dataset were uploaded on [datasets](https://github.com/lucasquemelli/Rossmann_Store_Sales/tree/main/datasets) folder. However, the **train** file could not be uploaded on GitHub due to its size exceeds 25 MB. Therefore, we decided to load data from local repository for this project.
