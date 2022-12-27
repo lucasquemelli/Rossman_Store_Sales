@@ -2,7 +2,7 @@
 
 <code><img width="100%" src="https://github.com/lucasquemelli/Rossmann_Store_Sales/blob/main/cover%20image/rossmann_cover_img.jpeg"></code>
 
-# 1. Business Problems 
+# 1. Business Problem
 
 ### Description
 
