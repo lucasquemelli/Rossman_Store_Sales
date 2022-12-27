@@ -12,4 +12,4 @@
 
 **Purpose:** to forecast sales revenue of the next 6 weeks for Rossmann stores to know if we will be able to make a renovation for every store. 
 
-**Strategy:** we used the CRISP-DS (Cross-Industry Process - Data Science) as the main project management methodology. The predictions were delivered through a Telegram Bot in order the CFO and stakeholders check the informations using their smartphone. 
+**Strategy:** we used the CRISP-DS (Cross-Industry Process - Data Science) as the main project management methodology. The predictions were delivered through a Telegram Bot in order the CFO and stakeholders check the informations using their smartphones. 
