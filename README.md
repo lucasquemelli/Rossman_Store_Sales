@@ -17,3 +17,19 @@
 The dataset used in this project contains historical drugstore sales from 1115 Rossmann stores (Europe). Dataset description and all files may be checked and downloaded through [Kaggle - Rossmann Store Sales](https://www.kaggle.com/competitions/rossmann-store-sales/data).   
 
 All files from the dataset were uploaded on [datasets](https://github.com/lucasquemelli/Rossmann_Store_Sales/tree/main/datasets) folder. However, the **train** file could not be uploaded on GitHub due to its size exceeds 25 MB. Therefore, we decided to load data from local repository for this project.
+
+# 2. Business Assumptions (Formulated Hypotheses)
+
+The assumptions (hypotheses) formulated to be tested may be seen below.
+
+1. Stores with bigger assortments should have higher sales.
+2. Stores with closer competitors should have lower sales.
+3. Stores with long time competitors should have higher sales.
+4. Stores with active promotions for longer periods should have higher sales.
+5. Stores with more subsequent promotions should have higher sales.
+6. Stores which work on Christimas holiday should have higher sales.
+7. Stores should have higher sales over year.
+8. Stores which work in the second semester of the year should have higher sales.
+9. Stores should have higher sales on day 10 for every month.
+10. Stores should have lowe sales on school holidays.
+11. Stores which work on weekends should have higher sales.
