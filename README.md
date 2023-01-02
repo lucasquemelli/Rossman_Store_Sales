@@ -33,3 +33,13 @@ The assumptions (hypotheses) formulated to be tested may be seen below.
 9. Stores should have higher sales on day 10 for every month.
 10. Stores should have lowe sales on school holidays.
 11. Stores which work on weekends should have higher sales.
+
+# 3. Solution Strategy
+
+**Step 01 - Data Description:** renaming features, cleaning data, changing data type, treating missing values and descriptive statistics. 
+
+**Step 02 - Feature Engineering:** creating hypotheses mind map, hypotheses generation and feature engineering. 
+
+**Step 03 - Feature Filtering and Selection:** rows filtering and columns selection. 
+
+**Step 04 - Exploratory Data Analysis (EDA):** univariate analysis, bivariate analysis and multivariate analysis. 
