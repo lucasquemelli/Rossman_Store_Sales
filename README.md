@@ -43,3 +43,6 @@ The assumptions (hypotheses) formulated to be tested may be seen below.
 **Step 03 - Feature Filtering and Selection:** rows filtering and columns selection. 
 
 **Step 04 - Exploratory Data Analysis (EDA):** univariate analysis, bivariate analysis and multivariate analysis. 
+
+# 4. Tope 3 Data Insights
+
