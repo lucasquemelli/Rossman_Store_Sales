@@ -44,5 +44,28 @@ The assumptions (hypotheses) formulated to be tested may be seen below.
 
 **Step 04 - Exploratory Data Analysis (EDA):** univariate analysis, bivariate analysis and multivariate analysis. 
 
-# 4. Top 3 Data Insights
+# 4. Top 6 Data Insights
 
+**Hypothesis 4:** Stores with active promotions for longer periods should have higher sales.
+
+**False**. Few weeks after the beginning of the promotion is still profitable. The sum of sales is kept high. However, after some weeks, the sales falls down.
+
+**Hypothesis 5:** Stores with more subsequent promotions should have higher sales.
+
+**False**. We did not observe higher sales for consecutive promotions.
+
+**Hypothesis 7:** Stores should have higher sales over year.
+
+**False**. Stores presented lower sales over the years.
+
+**Hypothesis 8:** Stores which work in the second semester of the year should have higher sales.
+
+**False.** Stores have lower sales in the second semester of the year.
+
+**Hypothesis 10:** Stores should have lower sales on weekends.
+
+**True.** They have lower sales on weekends.
+
+**Hypothesis 11:** Stores should have lower sales on school holidays.
+
+**True.** Stores have lower sales during school holidays.
