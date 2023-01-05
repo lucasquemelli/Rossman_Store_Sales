@@ -48,6 +48,8 @@ The assumptions (hypotheses) formulated to be tested may be seen below.
 
 **Step 06 - Feature Selection:** Boruta algorihtm with Random Forest Regrresor to select the most relevant features.
 
+**Step 07 - Machine Learning Models:** 
+
 # 4. Top 6 Data Insights
 
 **Hypothesis 4:** Stores with active promotions for longer periods should have higher sales.
