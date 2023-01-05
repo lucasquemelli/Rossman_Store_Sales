@@ -46,7 +46,7 @@ The assumptions (hypotheses) formulated to be tested may be seen below.
 
 **Step 05 - Data Preparation:** normalization, rescaling and transformation.
 
-**Step 06 - Feature Selection:** 
+**Step 06 - Feature Selection:** Boruta algorihtm with Random Forest Regrresor to select the most relevant features.
 
 # 4. Top 6 Data Insights
 
