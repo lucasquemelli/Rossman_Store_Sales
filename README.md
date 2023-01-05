@@ -44,6 +44,10 @@ The assumptions (hypotheses) formulated to be tested may be seen below.
 
 **Step 04 - Exploratory Data Analysis (EDA):** univariate analysis, bivariate analysis and multivariate analysis. 
 
+**Step 05 - Data Preparation:** normalization, rescaling and transformation.
+
+**Step 06 - Feature Selection:** 
+
 # 4. Top 6 Data Insights
 
 **Hypothesis 4:** Stores with active promotions for longer periods should have higher sales.
