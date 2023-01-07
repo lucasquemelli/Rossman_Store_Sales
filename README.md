@@ -48,7 +48,7 @@ The assumptions (hypotheses) formulated to be tested may be seen below.
 
 **Step 06 - Feature Selection:** Boruta algorihtm with Random Forest Regrresor to select the most relevant features.
 
-**Step 07 - Machine Learning Modelling:** 
+**Step 07 - Machine Learning Modelling:** testing and comparing models such as Linear Regression, Linear Regression Regularized - Lasso, Random Forest Regression and XGBoost Regression. 
 
 # 4. Top 6 Data Insights
 
