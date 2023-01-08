@@ -50,6 +50,8 @@ The assumptions (hypotheses) formulated to be tested may be seen below.
 
 **Step 07 - Machine Learning Modelling:** testing and comparing Machine Learning models.
 
+**Step 08 - Hyperparameter Fine Tuning:** determining the optimum parameters for the chosen models. 
+
 # 4. Top 6 Data Insights
 
 **Hypothesis 4:** Stores with active promotions for longer periods should have higher sales.
