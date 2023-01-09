@@ -52,6 +52,9 @@ The assumptions (hypotheses) formulated to be tested may be seen below.
 
 **Step 08 - Hyperparameter Fine Tuning:** determining the optimum parameters for the chosen models. 
 
+**Step 09 - Error Interpretation and Translation:** stores business performance, total business performance and Machine Learning performance.
+
+
 # 4. Top 6 Data Insights
 
 **Hypothesis 4:** Stores with active promotions for longer periods should have higher sales.
