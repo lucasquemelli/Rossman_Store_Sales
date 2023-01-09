@@ -80,3 +80,9 @@ The assumptions (hypotheses) formulated to be tested may be seen below.
 **Hypothesis 11:** Stores should have lower sales on school holidays.
 
 **True.** Stores have lower sales during school holidays.
+
+# 5. Business Results
+
+# 6. Conclusions
+
+# 7. Next Steps
