@@ -89,9 +89,7 @@ The following business results were achieved:
 |          Scenarios        | Total Business Performance (EUR) | 
 |:-------------------------:|:--------------------------------:|
 |         Predictions	      |             284,048,416.00       | 
-|:-------------------------:|:--------------------------------:|
 |         Worst Scenario    |             283,333,888.10       | 
-|:-------------------------:|:--------------------------------:|
 |         Best Scenario     |             284,762,901.99       |  
 
 # 6. Conclusions
