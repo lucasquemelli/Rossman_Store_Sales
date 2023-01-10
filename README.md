@@ -94,4 +94,9 @@ The following business results were achieved:
 
 # 6. Conclusions
 
+The best fit to our data was the XGBoost model, with an RMSE of 937, MAE of 673, and MAPE of 0.093. The best scenario for the prediction results in a value of EUR 284,762,901.99.
+
 # 7. Next Steps
+
+- To develop specifical models to stores with higher percentage error scores.
+- To create more features through feature engineering. 
