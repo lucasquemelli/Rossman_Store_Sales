@@ -54,6 +54,7 @@ The assumptions (hypotheses) formulated to be tested may be seen below.
 
 **Step 09 - Error Interpretation and Translation:** stores business performance, total business performance and Machine Learning performance.
 
+**Step 10 - Deploy:** deploy model to production.
 
 # 4. Top 6 Data Insights
 
