@@ -12,7 +12,7 @@
 
 **Purpose:** to forecast sales revenue of the next 6 weeks for Rossmann stores to know if we will be able to make a renovation for every store. 
 
-**Strategy:** we used the CRISP-DS (Cross-Industry Process - Data Science) as the main project management methodology. The predictions were delivered through a Telegram Bot in order the CFO and stakeholders check the informations using their smartphones. 
+**Strategy:** we used the CRISP-DS (Cross-Industry Process - Data Science) as the main project management methodology. 
 
 The dataset used in this project contains historical drugstore sales from 1115 Rossmann stores (Europe). Dataset description and all files may be checked and downloaded through [Kaggle - Rossmann Store Sales](https://www.kaggle.com/competitions/rossmann-store-sales/data).   
 
